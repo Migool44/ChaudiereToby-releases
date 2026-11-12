@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v5.apk",
-  "sha256": "0d5d5e5071eef23dbc31884c90f632a88005fa750c167a6b17bf07ce9d7ba3b1",
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v6.apk",
+  "sha256": "67c69bf466133acc0bc6e94637ddd6145f440a126fe6bbbae63acf41386b185f",
   "changelog": "Accès à la chaudière par Internet (MQTT)\nChoix de la liaison : Local, Internet ou Auto\nMode Auto : passe sur Internet si la chaudière est injoignable en local\nIdentifiants MQTT chiffrés sur le téléphone"
 }
