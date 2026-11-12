@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v2.apk",
-  "sha256": "48da765fec6fc02d90083fbc6429b0a890a036179a2bcb848b1ea49282b07b5f",
-  "changelog": "Test de la mise à jour automatique.\nRien ne change pour l'utilisation."
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v3.apk",
+  "sha256": "6a9cec7aa973c892de96f9a23b2230681da5b9ab11a9670098320c23bc7f477c",
+  "changelog": "Nouveau mode simple en thème sombre\nChoix du style de la molette de température (6 styles) dans Réglages"
 }
