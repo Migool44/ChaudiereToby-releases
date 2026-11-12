@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v3.apk",
-  "sha256": "6a9cec7aa973c892de96f9a23b2230681da5b9ab11a9670098320c23bc7f477c",
-  "changelog": "Nouveau mode simple en thème sombre\nChoix du style de la molette de température (6 styles) dans Réglages"
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v4.apk",
+  "sha256": "ffac04d7c2720a313c8a79c49f92d602cd647d290ff9644d46ecf2670a0e8201",
+  "changelog": "Accès à la chaudière par Internet (MQTT)\nChoix de la liaison : Local, Internet ou Auto\nMode Auto : passe sur Internet si la chaudière est injoignable en local\nIdentifiants MQTT chiffrés sur le téléphone"
 }
