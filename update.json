@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v7.apk",
-  "sha256": "bb590ab5fd535e23ae6157809938a344044771f718673bb3b248b55a5c5ea347",
-  "changelog": "Accès à la chaudière par Internet (MQTT)\nChoix de la liaison : Local, Internet ou Auto\nMode Auto : passe sur Internet si la chaudière est injoignable en local\nIdentifiants MQTT chiffrés sur le téléphone"
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v8.apk",
+  "sha256": "071e4814c76295fe2d21bae712779726a72c3908cd4bf1b7ef1fef4ab24fe0f9",
+  "changelog": "Version 1.7\n- Nouveau nom : Toby 12\n- Écran Chaudière : tout tient à l'écran, sans défilement\n- Bouton Allumer / Éteindre : nouvelle icône\n- Horaires simplifiés : seulement les heures, sans température\n- Confirmation avant de modifier un jour\n- Menu ⋮ : mode essai et choix de la molette\n- Notification de test\n- Glisser vers le bas pour actualiser\n- Balayage entre les onglets"
 }
