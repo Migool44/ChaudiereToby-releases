@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v9.apk",
-  "sha256": "a2c27e1cee83fcb76ec427716d6dc50d49329c0260292535d2d528453ea860e8",
-  "changelog": "Version 1.7\n- Nouveau nom : Toby 12\n- Écran Chaudière : tout tient à l'écran, sans défilement\n- Bouton Allumer / Éteindre : nouvelle icône\n- Horaires simplifiés : seulement les heures, sans température\n- Confirmation avant de modifier un jour\n- Menu ⋮ : mode essai et choix de la molette\n- Notification de test\n- Glisser vers le bas pour actualiser\n- Balayage entre les onglets"
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v10.apk",
+  "sha256": "581ed1b2823a4e9e243add85c60908bbdf66b8a2cc09bfeae76892783dc61065",
+  "changelog": "Version 1.9\n- Rectification problèmes programmation\n- Ajout bouton œil dans mdp/accès internet\n- Ajout bouton réglage puissance"
 }
