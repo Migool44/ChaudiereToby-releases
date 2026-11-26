@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "2.0",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v10.apk",
-  "sha256": "581ed1b2823a4e9e243add85c60908bbdf66b8a2cc09bfeae76892783dc61065",
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v11.apk",
+  "sha256": "b61f5b7713f7114dd7dee4c4ae780dbad4da229a8fe57b19c12ec86e4148e299",
   "changelog": "Version 1.9\n- Rectification problèmes programmation\n- Ajout bouton œil dans mdp/accès internet\n- Ajout bouton réglage puissance"
 }
