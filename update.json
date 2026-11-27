@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
+  "versionCode": 13,
+  "versionName": "2.2",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v12.apk",
-  "sha256": "dc3befbeb1cffbd9b2e3b11f799df41283c8af78dfb97ed7a00476faefff2df8",
-  "changelog": "Version 1.9\n- Rectification problèmes programmation\n- Ajout bouton œil dans mdp/accès internet\n- Ajout bouton réglage puissance"
+  "apkUrl": "https://raw.githubusercontent.com/Migool44/ChaudiereToby-releases/main/ChaudiereToby-v13.apk",
+  "sha256": "b033eb5c4e6af743282fceeccec467c6773117cbc992aaa3c62f08bf68060b30",
+  "changelog": "Version 2.2\n- Horaires : enregistrement corrigé et plus fiable, même à distance\n- Température de l'eau réglable pour chaque plage horaire, affichée sur la page Horaires\n- Molette plus grande, échelle 50 à 70 °C (réglable)\n- Réglage de la puissance (1 à 5)\n- Mode éco affiché, avec le bouton Éteindre\n- Démarrage différé de la chaudière affiché\n- Température des fumées sur l'accueil, avec une petite animation\n- Connexion à distance automatique, sans avoir à actualiser\n- L'interrupteur Programmation suit la chaudière"
 }
